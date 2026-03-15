@@ -1,50 +1,95 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">A passionate Machine Learning & AI developer from India</h3>
 
+## 🚀 About Me
+
+* 🔭 Working on **Machine Learning and AI projects**
+* 🌱 Currently learning **Deep Learning, LLMs, and AI System Design**
+* 👯 Open to collaborate on **ML / AI / NLP projects**
+* 💬 Ask me about **Machine Learning, NLP, Recommendation Systems**
+* 📫 Reach me at **[khushi639815@gmail.com](mailto:khushi639815@gmail.com)**
 
 
-### 🌱 Currently Learning
 
-* Deep Learning
-* Large Language Models (LLMs)
-* Advanced Machine Learning
-* AI System Design
+# 🧠 Skills
 
----
+### Programming
 
-### 👯 I’m looking to collaborate on
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-AI / Machine Learning projects, especially in **NLP, recommendation systems, and predictive analytics**.
+### Machine Learning
 
----
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-ML_Model-blue?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-ML_Model-green?style=for-the-badge)
 
-### 🤝 I’m looking for help with
+### AI & NLP
 
-**Advanced AI systems and Large Language Models (LLMs)**
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-orange?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Multi_Agent_System-purple?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Google_Gemini-API-blue?style=for-the-badge)
 
----
+### Tools & Frameworks
 
-### 👨‍💻 All of my projects are available at
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 
-🔗 https://github.com/Khushirajput123
 
----
 
-### 💬 Ask me about
+# 📊 GitHub Stats
 
-**Machine Learning • Natural Language Processing • Recommendation Systems**
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushirajput123\&show_icons=true\&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushirajput123\&layout=compact\&theme=tokyonight)
 
-### 📫 How to reach me
 
-📧 **[khushi639815@gmail.com](mailto:khushi639815@gmail.com)**
 
----
+# 📂 Featured Projects
 
-### ⚡ Fun fact
+### 🎬 Movie Recommendation System
 
-I enjoy turning **real-world problems into intelligent AI solutions**.
+Content-based movie recommendation system using **cosine similarity and metadata analysis**.
+
+### 🏠 House Price Prediction (XGBoost)
+
+Predicts housing prices using **XGBoost regression**.
+
+### 💼 AI Financial Advisor
+
+Multi-agent AI system using **Google Gemini API** for financial insights.
+
+
+### 🩺 Diabetes Prediction (SVM)
+
+Predicts diabetes using **Support Vector Machine (SVM)**.
+
+### 📰 Fake News Detection
+
+NLP project that classifies **real vs fake news** using **TF-IDF + Logistic Regression**.
+
+
+
+
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Khushirajput123)
+
+
+
+⭐ *Always exploring ways to build intelligent systems and solve real-world problems with AI.*
+
 <h3 align="left">🤝 Connect with me</h3>
 
 <p align="left">
