@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">A passionate Machine Learning & AI developer from India</h3>
 
----
+
 
 ### 🌱 Currently Learning
 
