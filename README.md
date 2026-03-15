@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">A passionate Machine Learning & AI developer from India</h3>
-
-- 🌱 I’m currently learning **Deep Learning Large Language Models (LLMs) Advanced Machine Learning AI System Design**
-
-- 👯 I’m looking to collaborate on **AI / Machine Learning Projects Especially projects related to NLP, recommendation systems, and predictive analytics.**
-
+🌱 Currently Learning
+Deep Learning
+Large Language Models (LLMs)
+Advanced Machine Learning
+AI System Design
+- 👯 I’m looking to collaborate on 
+I’m open to collaborating on AI / Machine Learning projects, especially in NLP, recommendation systems, and predictive analytics.
 - 🤝 I’m looking for help with **Advanced AI systems and Large Language Models (LLMs)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Khushirajput123](https://github.com/Khushirajput123)
-
 - 💬 Ask me about **Machine Learning Natural Language Processing Recommendation Systems**
-
 - 📫 How to reach me **khushi639815@gmail.com**
-
 - ⚡ Fun fact **I enjoy turning real-world problems into intelligent AI solutions.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-rajput-52558a298?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjcd2xsvwsbs0v5cljqdkuq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-rajput-52558a298?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjcd2xsvwsbs0v5cljqdkuq%3d%3d" height="30" width="40" />
