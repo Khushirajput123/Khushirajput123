@@ -84,21 +84,21 @@ NLP project that classifies **real vs fake news** using **TF-IDF + Logistic Regr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Khushirajput123)
+
 
 
 
 ⭐ *Always exploring ways to build intelligent systems and solve real-world problems with AI.*
 
-<h3 align="left">🤝 Connect with me</h3>
+<!-- <h3 align="left">🤝 Connect with me</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/khushi-rajput-52558a298" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-</p>
+</p> -->
 
----
+
 
 <h3 align="left">⚙️ Languages and Tools</h3>
 
