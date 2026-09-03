@@ -84,16 +84,6 @@ I am a **Machine Learning & AI Engineer** focused on building intelligent agent 
 | **🎬 [Movie Recommendation Engine](https://github.com/Khushirajput123)** | High-precision content-based engine calculating vectorized cosine similarity over metadata corpora. | `Scikit-Learn` `NLP` `Streamlit` |
 
 ---
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushirajput123&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushirajput123&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" alt="Top Languages" width="45%" />
-</div>
-
----
-
 <div align="center">
   <i>"Transforming data into autonomy, algorithms into intelligence."</i>
 </div>
