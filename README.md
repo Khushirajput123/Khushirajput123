@@ -1,179 +1,99 @@
-<h1 align="center">Hi 👋, I'm Khushi</h1>
-<h3 align="center">A passionate Machine Learning & AI developer from India</h3>
-
-## 🚀 About Me
-
-* 🔭 Working on **Machine Learning and AI projects**
-* 🌱 Currently learning **Deep Learning, LLMs, and AI System Design**
-* 👯 Open to collaborate on **ML / AI / NLP projects**
-* 💬 Ask me about **Machine Learning, NLP, Recommendation Systems**
-* 📫 Reach me at **[khushi639815@gmail.com](mailto:khushi639815@gmail.com)**
-
-
-
-# 🧠 Skills
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge)
-![SVM](https://img.shields.io/badge/SVM-ML_Model-blue?style=for-the-badge)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-ML_Model-green?style=for-the-badge)
-
-### AI & NLP
-
-![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-orange?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-Multi_Agent_System-purple?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Google_Gemini-API-blue?style=for-the-badge)
-
-### Tools & Frameworks
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-
-
-
-# 📊 GitHub Stats
-
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushirajput123\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushirajput123\&layout=compact\&theme=tokyonight)
-
-
-
-# 📂 Featured Projects
-
-### 🎬 Movie Recommendation System
-
-Content-based movie recommendation system using **cosine similarity and metadata analysis**.
-
-### 🏠 House Price Prediction (XGBoost)
-
-Predicts housing prices using **XGBoost regression**.
-
-### 💼 AI Financial Advisor
-
-Multi-agent AI system using **Google Gemini API** for financial insights.
-
-
-### 🩺 Diabetes Prediction (SVM)
-
-Predicts diabetes using **Support Vector Machine (SVM)**.
-
-### 📰 Fake News Detection
-
-NLP project that classifies **real vs fake news** using **TF-IDF + Logistic Regression**.
-
-
-
-
-# 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
-
-
-
-
-
-⭐ *Always exploring ways to build intelligent systems and solve real-world problems with AI.*
-
-<!-- <h3 align="left">🤝 Connect with me</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/khushi-rajput-52558a298" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p> -->
-
-
-
-<h3 align="left">⚙️ Languages and Tools</h3>
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://flutter.dev/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-
+<div align="center">
+  <h1>Hi there, I'm <span style="color: #6C63FF;">Khushi</span> 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=AI+%26+Machine+Learning+Engineer;Building+Autonomous+Agents+%26+LLM+Pipelines;End-to-End+Predictive+Modeling;Data+Science+%26+Scalable+Solutions" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/khushi-rajput-52558a298" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:khushi639815@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Khushirajput123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+### 💫 About Me
+
+I am a **Machine Learning & AI Engineer** focused on building intelligent agent architectures, scalable predictive models, and production-grade NLP systems. My work spans the entire lifecycle of data products—from exploratory analysis and mathematical optimization to deploying LLM-backed applications.
+
+* 🔭 **Building:** Autonomous AI agent ecosystems and LLM-powered tools (`HireBots`, `CodeBuddy`)
+* 🎯 **Specializing in:** Predictive modeling, NLP, agentic workflows, and production ML pipelines
+* ⚡ **Core Philosophy:** Transforming complex raw data into actionable, high-impact intelligent products
+* 💬 **Ask me about:** Multi-agent design, feature engineering, classification architectures, and API development
+* 📬 **Reach out:** [khushi639815@gmail.com](mailto:khushi639815@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Toolkit
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
+
+**Machine Learning & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EB6440?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-388E3C?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+</p>
+
+**GenAI, LLMs & Agent Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=flat-square&logo=probot&logoColor=white" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=natural-language-processing&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
+</p>
+
+**Backend, Deployment & Utilities**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 [HireBots](https://github.com/Khushirajput123)** | Multi-agent autonomous recruitment engine for ATS parsing, skills validation, and automated interview screening. | `Python` `Gemini API` `Agentic AI` `FastAPI` |
+| **🔍 [JobLens](https://github.com/Khushirajput123)** | Real-time career analytics platform computing candidate-to-job fit ratios, keyword disparity, and market demand insights. | `Python` `NLP` `Scikit-Learn` `Streamlit` |
+| **💻 [CodeBuddy](https://github.com/Khushirajput123)** | Conversational coding copilot offering static syntax reviews, bug detection, time-complexity analysis, and refactoring tips. | `LLMs` `Python` `LangChain` `FastAPI` |
+| **📉 [Customer Churn Predictor](https://github.com/Khushirajput123)** | End-to-end churn classification engine using predictive ensemble modeling to assess retention risk and lifetime value. | `XGBoost` `Scikit-Learn` `Pandas` `SMOTE` |
+| **💼 [AI Financial Advisor](https://github.com/Khushirajput123)** | Specialized agent network providing portfolio risk breakdown, market sentiment tracking, and investment guidance. | `Gemini API` `Multi-Agent System` `Python` |
+| **🎬 [Movie Recommendation Engine](https://github.com/Khushirajput123)** | High-precision content-based engine calculating vectorized cosine similarity over metadata corpora. | `Scikit-Learn` `NLP` `Streamlit` |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushirajput123&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushirajput123&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" alt="Top Languages" width="45%" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Transforming data into autonomy, algorithms into intelligence."</i>
+</div>
