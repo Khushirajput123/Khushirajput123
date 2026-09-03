@@ -92,22 +92,3 @@ I am a **Machine Learning & AI Developer** from India with a passion for designi
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushirajput123&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" alt="Khushi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushirajput123&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" alt="Top Languages" width="45%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushirajput123&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" width="94%" />
-</div>
-
----
-
-<div align="center">
-  <p><i>"Transforming data into autonomy, algorithms into intelligence."</i></p>
-  <p>⭐ Star my repositories if you find my projects helpful!</p>
-</div>
